@@ -1,6 +1,6 @@
 # Inventory Management System (Blazor / .NET 10)
 
-**Inventory Management System** — a full-stack single-page web application built with **Blazor (ASP.NET Core Blazor, .NET 10)**, using Clean Architecture and Use-Case Driven Development.  
+**Inventory Management System** is a full-stack single-page web application built with **Blazor (ASP.NET Core Blazor, .NET 10)**, using Clean Architecture and Use-Case Driven Development.  
 This project demonstrates modern Microsoft-stack development for internal business systems: server-side Blazor, EF Core, ASP.NET Core Identity, plugin-based repositories (In-Memory + EF Core), and a testable, SOLID codebase.
 
 ---
@@ -35,6 +35,4 @@ This project demonstrates modern Microsoft-stack development for internal busine
 - Docker / IIS / Hyper-V (optional deployment targets)
 
 ---
-
-## Repository Structure (high-level)
 
